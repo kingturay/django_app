@@ -24,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my_app/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+            <state relative-caret-position="150">
+              <caret line="124" column="49" selection-start-line="124" selection-start-column="49" selection-end-line="124" selection-end-column="49" />
               <folding>
                 <element signature="e#307#327#0" expanded="true" />
               </folding>
@@ -144,7 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569107409437</updated>
       <workItem from="1569107411282" duration="1358000" />
-      <workItem from="1569176989922" duration="2000000" />
+      <workItem from="1569176989922" duration="2366000" />
     </task>
     <task id="LOCAL-00001" summary="Add Procfile to the project">
       <created>1569108178351</created>
@@ -157,7 +157,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3358000" />
+    <option name="totallyTimeSpent" value="3724000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -217,8 +217,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my_app/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+        <state relative-caret-position="150">
+          <caret line="124" column="49" selection-start-line="124" selection-start-column="49" selection-end-line="124" selection-end-column="49" />
           <folding>
             <element signature="e#307#327#0" expanded="true" />
           </folding>
