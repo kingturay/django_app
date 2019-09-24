@@ -1,4 +1,6 @@
 db.sqlite3
+.idea/misc.xml
+.idea/workspace.xml
 *.pyc
 __pycache__/
 *.py[cod]
